@@ -1,0 +1,6 @@
+{
+  "name": "التقويم",
+  "description": "تطبيق تقويم ذكي ومبهج يعرض جدول الأيام والشهور، ويسجل الأحداث والمهام محلياً في قاعدة بيانات Room مع جدولة التنبيهات بدقة ودعم كامل للغة العربية والاتجاه من اليمين لليسار (RTL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
